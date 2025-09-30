@@ -1,7 +1,7 @@
 <div align="center">
   
   <!-- Animated Wave Border Top (Flipped) -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,13,14,15,16&height=200&section=header&animation=fadeIn" width="100%" style="transform: rotate(180deg);"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=FF69B4&height=200&section=header&animation=fadeIn" width="100%" style="transform: rotate(180deg);"/>
   
   <br/><br/><br/><br/><br/><br/>
   
@@ -105,28 +105,20 @@
 
 <br/>
 
-![Peer Support](https://img.shields.io/badge/Peer_Support-FF69B4?style=for-the-badge&labelColor=FF1493)
 ![Inclusive Leadership](https://img.shields.io/badge/Inclusive_Leadership-FF1493?style=for-the-badge&labelColor=C71585)
-
 ![Conflict Resolution](https://img.shields.io/badge/Conflict_Resolution-C71585?style=for-the-badge&labelColor=8B008B)
+
 ![Public Speaking](https://img.shields.io/badge/Public_Speaking-FF69B4?style=for-the-badge&labelColor=FF1493)
-
 ![Cross-Cultural Communication](https://img.shields.io/badge/Cross--Cultural_Communication-FF1493?style=for-the-badge&labelColor=C71585)
-
-![Administrative Organization](https://img.shields.io/badge/Administrative_Organization-C71585?style=for-the-badge&labelColor=8B008B)
 
 ![Time Management](https://img.shields.io/badge/Time_Management-FF69B4?style=for-the-badge&labelColor=FF1493)
 ![Crisis Response Readiness](https://img.shields.io/badge/Crisis_Response_Readiness-FF1493?style=for-the-badge&labelColor=C71585)
 
-![Creative Programming](https://img.shields.io/badge/Creative_Programming-C71585?style=for-the-badge&labelColor=8B008B)
 ![Problem Solving](https://img.shields.io/badge/Problem_Solving-FF69B4?style=for-the-badge&labelColor=FF1493)
-
 ![Adaptability](https://img.shields.io/badge/Adaptability-FF1493?style=for-the-badge&labelColor=C71585)
+
 ![Leadership](https://img.shields.io/badge/Leadership-C71585?style=for-the-badge&labelColor=8B008B)
 ![Communication](https://img.shields.io/badge/Communication-FF69B4?style=for-the-badge&labelColor=FF1493)
-
-![Collaborative Work](https://img.shields.io/badge/Collaborative_Work-FF1493?style=for-the-badge&labelColor=C71585)
-![Creativity](https://img.shields.io/badge/Creativity-C71585?style=for-the-badge&labelColor=8B008B)
 
 </div>
 
@@ -137,21 +129,9 @@
 <br/><br/><br/>
 
 <div align="center">
-  
-  <!-- GitHub Snake Game -->
-  <h2 align="center" style="color: #FF69B4; font-size: 32px;">🎮 Watch the Snake Eat My Contributions! 🎮</h2>
-  
-  <br/>
-  
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/aashnaparikh/aashnaparikh/output/github-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/aashnaparikh/aashnaparikh/output/github-snake.svg">
-    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/aashnaparikh/aashnaparikh/output/github-snake.svg">
-  </picture>
-  
-  <br/><br/><br/>
+
   
   <!-- Animated Wave Border Bottom -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,13,14,15,16&height=200&section=footer&animation=fadeIn" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=FF69B4&height=200&section=footer&animation=fadeIn" width="100%"/>
   
 </div>
