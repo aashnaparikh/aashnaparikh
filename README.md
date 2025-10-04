@@ -12,7 +12,7 @@
   
   <!-- About Me Section - H3 Size, Fully Justified -->
   <h3 align="justify" style="text-align: justify; margin: 0 auto; max-width: 900px; line-height: 1.9; font-size: 20px; padding: 0 20px;">
-    <b>I'm a second-year Computer Science student at the University of Victoria, fascinated by all things tech. Lately, I've been exploring areas like Human-Computer Interaction, Quantum Technologies, Cybersecurity, Artificial Intelligence, and even Project Management—I love diving into new challenges and seeing where they take me. When I'm not juggling too many projects at once, you'll probably find me reading, listening to music, or at the gym.</b>
+    <b>I'm a second-year Computer Science student at the University of Victoria, fascinated by all things tech. Lately, I've been exploring areas like Human-Computer Interaction, Quantum Technologies, Cybersecurity, Big Data, and even Project Management—I love diving into new challenges and seeing where they take me. When I'm not juggling too many projects at once, you'll probably find me reading, listening to music, or at the gym.</b>
   </h3>
   
   <br/><br/>
