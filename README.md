@@ -11,7 +11,7 @@ Some of what I've been up to:
 - 🔬 **Engineering Faculty Research Assistant** — Optimizing single-cell RNA-sequencing pipelines and building ML models for biological data, working toward a publication
 - 🛠️ **UVic Mcpherson Library Software Assistant** — Supporting 3D modeling and prototyping workflows using Fusion 360, SolidWorks, and Blender
 
-When I'm not deep in a project, I'm probably organizing events, at the gym, or getting lost in a good playlist. 🎵
+When I'm not deep in a project, I'm probably watching crime documentaries, at the gym, or getting lost in a good playlist. 🎵
 
 ---
 
