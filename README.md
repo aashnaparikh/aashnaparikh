@@ -43,7 +43,6 @@ When I'm not deep in a project, I'm probably organizing events, at the gym, or g
 
 ![Node.js](https://img.shields.io/badge/Node.js-6CC24A?style=for-the-badge&logo=node.js&logoColor=white)
 ![Express](https://img.shields.io/badge/Express.js-FFFFFF?style=for-the-badge&logo=express&logoColor=black)
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-00E5CC?style=for-the-badge&logo=fastapi&logoColor=black)
 ![PyQt6](https://img.shields.io/badge/PyQt6-41CD52?style=for-the-badge&logo=qt&logoColor=white)
 ![Jekyll](https://img.shields.io/badge/Jekyll-FF4088?style=for-the-badge&logo=jekyll&logoColor=white)
@@ -63,7 +62,6 @@ When I'm not deep in a project, I'm probably organizing events, at the gym, or g
 **Version Control & Tools**
 
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-0DB7ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
 ![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)
