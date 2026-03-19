@@ -68,6 +68,10 @@ When I'm not deep in a project, I'm probably watching crime documentaries, at th
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
 ![Railway](https://img.shields.io/badge/Railway-6E40C9?style=for-the-badge&logo=railway&logoColor=white)
+![MAVLink](https://img.shields.io/badge/MAVLink-000000?style=for-the-badge&logo=unmanned-aerial-vehicle&logoColor=white)
+![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)
+![MITRE D3FEND](https://img.shields.io/badge/MITRE_D3FEND-FF6600?style=for-the-badge&logo=matrix&logoColor=white)
+![ArduPilot](https://img.shields.io/badge/ArduPilot-1E90FF?style=for-the-badge&logo=drone&logoColor=white)
 
 **Design, Modelling & Analytics**
 
