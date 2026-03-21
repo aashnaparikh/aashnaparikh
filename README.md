@@ -46,6 +46,8 @@ When I'm not deep in a project, I'm probably watching crime documentaries, at th
 ![FastAPI](https://img.shields.io/badge/FastAPI-00E5CC?style=for-the-badge&logo=fastapi&logoColor=black)
 ![PyQt6](https://img.shields.io/badge/PyQt6-41CD52?style=for-the-badge&logo=qt&logoColor=white)
 ![Jekyll](https://img.shields.io/badge/Jekyll-FF4088?style=for-the-badge&logo=jekyll&logoColor=white)
+[AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
+
 
 **Databases**
 
